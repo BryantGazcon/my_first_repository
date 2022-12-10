@@ -1,3 +1,3 @@
 # Git Basics
-Hello world, I love using git
+This my first ever repository.
 
